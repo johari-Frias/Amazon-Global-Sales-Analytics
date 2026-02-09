@@ -16,7 +16,7 @@ This project demonstrates a complete data analytics workflow analyzing **50,000+
 |--------|---------|
 | 📈 **MoM Growth** | North America leads with 15% average monthly growth |
 | 🚚 **FBA vs FBM** | FBA yields 23% higher profit margins |
-| 📅 **Peak Season** | Q4 shows 40% higher order volumes |
+| 📅 **Partial Data & Lower Volume** | Fourth quarter shows a reduced order volume of 15.06%. |
 | 🏆 **Top Category** | Electronics consistently outperforms across all regions |
 
 ---
@@ -159,6 +159,7 @@ If you found this project helpful, please consider giving it a star! ⭐
 ---
 
 *Built with ❤️ for data-driven decision making*
+
 
 
 
