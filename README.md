@@ -14,7 +14,7 @@ This project demonstrates a complete data analytics workflow analyzing **50,000+
 
 | Metric | Finding |
 |--------|---------|
-| 📈 **MoM Growth** | North America leads with 15% average monthly growth |
+| 📈 **FBA Leads Growth** | FBA revenue share increased year-over-year, driving over 70% of total sales with stable margins |
 | 🚚 **FBA vs FBM** | FBA generates 137% more revenue than FBM. |
 | 📅 **Partial Data & Lower Volume** | Fourth quarter shows a reduced order volume of 15.06% |
 | 🏆 **Top Category** | Electronics consistently outperforms across all regions |
@@ -159,6 +159,7 @@ If you found this project helpful, please consider giving it a star! ⭐
 ---
 
 *Built with ❤️ for data-driven decision making*
+
 
 
 
