@@ -433,8 +433,4 @@ ORDER BY CASE
     total_revenue DESC;
 -- =============================================
 -- END OF ANALYTICAL QUERIES
--- =============================================
--- For Tableau integration, export query results
--- to CSV or connect directly to database
 
--- =============================================
