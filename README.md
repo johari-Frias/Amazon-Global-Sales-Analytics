@@ -12,7 +12,7 @@
 
 An Amazon global e-commerce marketplace generates millions of dollars in cross-border revenue, yet hidden inefficiencies in logistics, pricing, and inventory quietly erode profitability. This project analyzes **50,000+ transactions across 14 countries** to answer one core question: **where is the business leaking value, and how do we fix it?**
 
-Through a five-dashboard analytical suite, the analysis systematically dissects the operation—from supply chain bottlenecks and margin-destroying payment methods, to discount strategies that fail and inventory capital misallocated to low-margin products. The result is a data-driven action plan that identifies **$978K in recoverable hidden costs** and provides a roadmap for optimizing every layer of the business.
+Through a five-dashboard analytical suite, the analysis systematically dissects the operation, from supply chain bottlenecks and margin-destroying payment methods, to discount strategies that fail and inventory capital misallocated to low-margin products. The result is a data-driven action plan that identifies **$978K in recoverable hidden costs** and provides a roadmap for optimizing every layer of the business.
 
 ---
 
@@ -33,7 +33,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 **KPIs Tracked:** Late Delivery Rate, Avg. Delivery Days, On-Time %, Shipping Cost vs. Promise
 
-**Critical Insight:** Expedited shipping—the most expensive option—has the **highest late delivery rate (12–19%)**, with FBM Expedited in the US failing on nearly 1 in 5 orders. Meanwhile, FBA vs. FBM performance is nearly identical in standard tiers, contradicting conventional assumptions. UPS (8.75% late) and USPS (7.73%) are the worst-performing couriers.
+**Critical Insight:** Expedited shipping, the most expensive option, has the **highest late delivery rate (12–19%)**, with FBM Expedited in the US failing on nearly 1 in 5 orders. Meanwhile, FBA vs. FBM performance is nearly identical in standard tiers, contradicting conventional assumptions. UPS (8.75% late) and USPS (7.73%) are the worst-performing couriers.
 
 ---
 
@@ -43,7 +43,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 **KPIs Tracked:** Revenue vs. True Profit, Shipping Cost, Payment Fees, Refund Amount, Margin by Category × Region
 
-**Critical Insight:** $9.25M in revenue is reduced to $8.27M true profit by **$978K in hidden costs**—shipping ($346K), payment fees ($233K), and refunds ($399K). Catastrophic regional losses exist in South America (Books: -231.8% margin) and Asia (Books: -167.8%). UPI and NetBanking payment methods cost **more than they generate** (203.7% and 152.4% fee rates).
+**Critical Insight:** $9.25M in revenue is reduced to $8.27M true profit by **$978K in hidden costs**, shipping ($346K), payment fees ($233K), and refunds ($399K). Catastrophic regional losses exist in South America (Books: -231.8% margin) and Asia (Books: -167.8%). UPI and NetBanking payment methods cost **more than they generate** (203.7% and 152.4% fee rates).
 
 ---
 
@@ -53,7 +53,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 **KPIs Tracked:** Revenue by Channel/Country, Profit Margin %, Discount Rate vs. Volume, Day-of-Week Revenue, Monthly Trends
 
-**Critical Insight:** Amazon.com (US) generates 29.6% of revenue but operates at only **9.1% profit margin**—less than half of European markets (21–24%). The 5–10% discount tier delivers **identical margins to full price** with no incremental volume—proving these discounts are unnecessary and waste an estimated $100K–150K annually. Order volume drops 49% from August to September.
+**Critical Insight:** Amazon.com (US) generates 29.6% of revenue but operates at only **9.1% profit margin**, less than half of European markets (21–24%). The 5–10% discount tier delivers **identical margins to full price** with no incremental volume, proving these discounts are unnecessary and waste an estimated $100K–150K annually. Order volume drops 49% from August to September.
 
 ---
 
@@ -73,7 +73,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 **KPIs Tracked:** Units Sold, Profit, Profit/Unit, Defect Rate, Variant Popularity by Brand
 
-**Critical Insight:** Of 198 products analyzed, **74.7% are classified as "Bleeders"** (high volume, low profit). Only 35 qualify as "Heroes"—and **22 of those are Gaming products**, creating dangerous category concentration. Five entire categories (Books, Beauty, Clothing, Toys, Home & Kitchen) have **zero Hero products**. Pink is the #1 selling color variant across 6 of 10 brands.
+**Critical Insight:** Of 198 products analyzed, **74.7% are classified as "Bleeders"** (high volume, low profit). Only 35 qualify as "Heroes", and **22 of those are Gaming products**, creating dangerous category concentration. Five entire categories (Books, Beauty, Clothing, Toys, Home & Kitchen) have **zero Hero products**. Pink is the #1 selling color variant across 6 of 10 brands.
 
 ---
 
@@ -118,6 +118,7 @@ amazon-global-sales-analytics/
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ---
+
 
 
 
