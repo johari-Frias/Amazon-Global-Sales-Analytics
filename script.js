@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }, observerOptions);
 
     // Observe all cards and timeline items
-    document.querySelectorAll('.problem-card, .stat-card, .insight-card, .resource-card, .timeline-item').forEach(el => {
+    document.querySelectorAll('.problem-card, .stat-card, .insight-card, .resource-card, .timeline-item, .dashboard-card, .impact-card').forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(20px)';
         el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
