@@ -27,7 +27,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ## 📊 Key Dashboards & Insights
 
-### Dashboard 4 — Logistics & Supply Chain Command Center
+### Dashboard 1 | Logistics & Supply Chain Command Center
 
 **Purpose:** Identify delivery bottlenecks across couriers, fulfillment types, shipping methods, and countries.
 
@@ -37,7 +37,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ---
 
-### Dashboard 5 — Global Profitability & Margin Erosion
+### Dashboard 2 | Global Profitability & Margin Erosion
 
 **Purpose:** Trace the path from gross revenue to true net profit, exposing hidden cost layers.
 
@@ -47,7 +47,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ---
 
-### Dashboard 6 — Global Sales & Revenue Optimization
+### Dashboard 3 | Global Sales & Revenue Optimization
 
 **Purpose:** Identify the most profitable markets, evaluate discount effectiveness, and map seasonal purchasing patterns.
 
@@ -57,7 +57,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ---
 
-### Dashboard 7 — Customer Behavior & Loyalty Command Center
+### Dashboard 4 | Customer Behavior & Loyalty Command Center
 
 **Purpose:** Quantify the value gap between Prime and Non-Prime customers and optimize checkout experiences across 14 markets.
 
@@ -67,7 +67,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ---
 
-### Dashboard 8 — Product & Inventory Strategy Command Center
+### Dashboard 5 | Product & Inventory Strategy Command Center
 
 **Purpose:** Classify SKUs into performance quadrants to optimize inventory capital allocation.
 
@@ -111,12 +111,13 @@ amazon-global-sales-analytics/
 
 ## 📬 Contact
 
-**[Your Name]** — Data Analyst
+**Johari Frias** — Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johari-f-37baa5210/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://johari-frias.github.io/Amazon-Global-Sales-Analytics/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ---
 
-*Built with ❤️ for data-driven decision making*
+
+
