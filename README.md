@@ -18,10 +18,10 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel** — Data cleaning, null handling, date standardization, and feature engineering (calculated columns for delivery performance, order tiers, and date hierarchies)
-- **PostgreSQL / SQL Server** — Analytical queries using CTEs, window functions (RANK, LAG, running totals), CASE-based segmentation, and multi-table aggregations
-- **Tableau** — 5 interactive dashboards with KPI cards, heatmaps, Pareto charts, scatter quadrants, waterfall charts, dumbbell charts, and geographic treemaps
-- **HTML / CSS / JavaScript** — Responsive portfolio website with animated UI, intersection observers, and glassmorphism design
+- **Microsoft Excel**: Data cleaning, null handling, date standardization, and feature engineering (calculated columns for delivery performance, order tiers, and date hierarchies)
+- **PostgreSQL / SQL Server**: Analytical queries using CTEs, window functions (RANK, LAG, running totals), CASE-based segmentation, and multi-table aggregations
+- **Tableau**: 5 interactive dashboards with KPI cards, heatmaps, Pareto charts, scatter quadrants, waterfall charts, dumbbell charts, and geographic treemaps
+- **HTML / CSS / JavaScript**: Responsive portfolio website with animated UI, intersection observers, and glassmorphism design
 
 ---
 
@@ -63,7 +63,7 @@ Through a five-dashboard analytical suite, the analysis systematically dissects 
 
 **KPIs Tracked:** AOV by Cohort, Units Per Transaction, Refund Rate by Cohort × Category, Payment Method Share by Country
 
-**Critical Insight:** Prime members spend **18.6% more per order** ($261 vs. $220) by buying higher-value products, not more items (UPT is identical at 1.7). Return rates are virtually identical (Prime 3.01% vs. Non-Prime 2.99%)—meaning every Prime conversion is **pure upside with zero refund penalty**. Three distinct checkout profiles exist globally: Credit Card-dominant (65–75%), Cash-on-Delivery markets (14–24%), and Regional Digital Payment markets (India: UPI 24%, Brazil: Pix 25%).
+**Critical Insight:** Prime members spend **18.6% more per order** ($261 vs. $220) by buying higher-value products, not more items (UPT is identical at 1.7). Return rates are virtually identical (Prime 3.01% vs. Non-Prime 2.99%), meaning every Prime conversion is **pure upside with zero refund penalty**. Three distinct checkout profiles exist globally: Credit Card-dominant (65–75%), Cash-on-Delivery markets (14–24%), and Regional Digital Payment markets (India: UPI 24%, Brazil: Pix 25%).
 
 ---
 
@@ -83,11 +83,11 @@ The analysis surfaces **5 high-priority actions** that a stakeholder should take
 
 | Priority | Action | Quantified Impact |
 |:---:|---|---|
-| 🔴 P0 | **Renegotiate or exit UPI & NetBanking** — these payment methods cost 203.7% and 152.4% of transaction value | Save $10.8K in direct losses |
-| 🔴 P0 | **Eliminate the 5–10% discount tier** — provides zero incremental volume at identical margins to full price | Recover $100K–150K in wasted margin |
-| 🟡 P1 | **Restructure Expedited shipping for FBM** — 19% late rate in the US is unacceptable for a premium service | Reduce refund exposure from $398K pool |
-| 🟡 P1 | **Shift inventory capital from Bleeders to Heroes** — 74.7% of products underperform; reallocate to Gaming's 22 Hero SKUs | Improve portfolio margin from 17.7% |
-| 🟢 P2 | **Scale European channels** — Italy, Germany, UK deliver 21–24% margins vs. US at 9.1% | Each € of European revenue worth 2.6× a US $ |
+| 🔴 P0 | **Renegotiate or exit UPI & NetBanking**: these payment methods cost 203.7% and 152.4% of transaction value | Save $10.8K in direct losses |
+| 🔴 P0 | **Eliminate the 5–10% discount tier**: provides zero incremental volume at identical margins to full price | Recover $100K–150K in wasted margin |
+| 🟡 P1 | **Restructure Expedited shipping for FBM**: 19% late rate in the US is unacceptable for a premium service | Reduce refund exposure from $398K pool |
+| 🟡 P1 | **Shift inventory capital from Bleeders to Heroes**: 74.7% of products underperform; reallocate to Gaming's 22 Hero SKUs | Improve portfolio margin from 17.7% |
+| 🟢 P2 | **Scale European channels**: Italy, Germany, UK deliver 21–24% margins vs. US at 9.1% | Each € of European revenue worth 2.6× a US $ |
 
 > *This analysis demonstrates that the difference between a $9.25M revenue business and a $9.8M+ profit-optimized operation lies not in selling more, but in eliminating the hidden costs already embedded in the existing data.*
 
@@ -111,13 +111,14 @@ amazon-global-sales-analytics/
 
 ## 📬 Contact
 
-**Johari Frias** — Data Analyst
+**Johari Frias** | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johari-f-37baa5210/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://johari-frias.github.io/Amazon-Global-Sales-Analytics/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ---
+
 
 
 
